@@ -1,2 +1,2 @@
-# deneme2
- deniyorum
+# Factorial with user define
+ 
